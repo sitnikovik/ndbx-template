@@ -5,6 +5,15 @@
 Формат основан на [Keep a Changelog](https://keepachangelog.com/ru/1.0.0/),
 и этот проект придерживается [Semantic Versioning](https://semver.org/lang/ru/).
 
+## [1.0.1] - 2026-02-14
+
+### Изменения
+
+В список ревьюеров в файле *CODEOWNERS* добавлены:
+
+- @Iamluckyangel
+- @Parnishkaspb
+
 ## [1.0.0] - 2026-02-06
 
 Первая версия шаблона проекта
